@@ -1,0 +1,23 @@
+{
+  "services": [
+    {
+      "name": "backend",
+      "cwd": "backend",
+      "install": "npm install",
+      "build": "npm run build",
+      "test": "npm test",
+      "start": "node dist/server.js",
+      "entrypoint": "dist/server.js",
+      "port": 4000
+    },
+    {
+      "name": "frontend",
+      "cwd": "frontend",
+      "install": "npm install",
+      "build": "npm run build",
+      "start": "npm run preview",
+      "entrypoint": "dist/index.html",
+      "port": 5173
+    }
+  ]
+}

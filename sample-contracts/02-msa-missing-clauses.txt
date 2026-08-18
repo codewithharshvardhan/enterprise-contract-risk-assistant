@@ -1,0 +1,34 @@
+MASTER SERVICES AGREEMENT
+
+This Master Services Agreement (this "Agreement") is made between Prairie Wind Logistics LLC ("Client") and Ferro & Vance Consulting Group ("Provider"). Provider will perform certain services for Client as described below.
+
+1. SERVICES
+Provider shall provide supply-chain optimization consulting services to Client, including analysis of Client's warehouse routing and delivery scheduling processes. Specific deliverables and timelines will be discussed between the parties as the engagement progresses.
+
+2. FEES AND PAYMENT
+Client shall pay Provider for services rendered. Invoices will be issued periodically and are due upon receipt. Provider reserves the right to adjust its rates as it deems appropriate for ongoing work.
+
+3. TERM
+This Agreement begins on the date of signature and continues until the services are completed to Provider's satisfaction.
+
+4. CONFIDENTIALITY
+The parties agree to keep confidential any information shared in connection with this engagement that is marked "Confidential."
+
+5. INTELLECTUAL PROPERTY
+Any reports, analyses, models, or other work product created by Provider in the course of this engagement shall remain the sole property of Provider. Client may use such work product internally for its own business purposes during the term of this Agreement.
+
+6. WARRANTY
+Provider will use commercially reasonable efforts to perform the services described above.
+
+7. FORCE MAJEURE
+Neither party shall be responsible for delays caused by circumstances beyond its reasonable control.
+
+8. GENERAL
+This Agreement, together with any statements of work executed by both parties, represents the understanding between Client and Provider regarding the services described herein. Either party may propose amendments in writing.
+
+IN WITNESS WHEREOF, the parties have caused this Agreement to be executed by their duly authorized representatives.
+
+PRAIRIE WIND LOGISTICS LLC                    FERRO & VANCE CONSULTING GROUP
+By: _______________________                   By: _______________________
+Name: Marcus Ibe                              Name: Renata Ferro
+Title: Operations Director                    Title: Managing Partner

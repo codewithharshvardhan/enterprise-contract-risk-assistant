@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+node_modules/
+dist/
+build/
+.claude/
+input/
+venv/
+.venv/
+__pycache__/
+.vscode/
+*.log
+input/
+zbrain-product-builder/

@@ -1,0 +1,46 @@
+SOFTWARE LICENSE AGREEMENT
+
+This Software License Agreement (this "Agreement") is entered into as of June 1, 2026, between Vertex Grain Systems, Inc. ("Licensor") and Millbrook Cooperative Farms, Inc. ("Licensee").
+
+1. GRANT OF LICENSE
+Subject to the terms of this Agreement, Licensor grants Licensee a non-exclusive, non-transferable, revocable license to use Licensor's grain-elevator inventory management software (the "Software") solely for Licensee's internal business operations at its facilities located in the state of Kansas, for up to twenty-five (25) named users.
+
+2. RESTRICTIONS
+Licensee shall not: (a) sublicense, sell, rent, or lease the Software to any third party; (b) reverse engineer, decompile, or disassemble the Software, except to the extent such restriction is prohibited by applicable law; (c) remove or alter any proprietary notices on the Software; or (d) use the Software to operate a service bureau or otherwise provide the Software's functionality to third parties.
+
+3. FEES
+Licensee shall pay Licensor an annual license fee of $48,000, payable in full within thirty (30) days of the Effective Date and on each anniversary thereafter. Licensor may increase the annual license fee by up to five percent (5%) upon each renewal, with sixty (60) days' prior written notice to Licensee.
+
+4. TERM AND TERMINATION
+This Agreement has an initial term of one (1) year from the Effective Date and shall renew automatically for successive one (1) year terms unless either party provides written notice of non-renewal at least sixty (60) days before the end of the then-current term. Licensor may terminate this Agreement immediately upon Licensee's breach of Section 2. Upon termination, Licensee shall immediately cease all use of the Software and destroy all copies in its possession.
+
+5. SUPPORT AND MAINTENANCE
+During the term of this Agreement, Licensor shall provide standard email-based support during Licensor's normal business hours and shall make commercially available updates and patches to the Software accessible to Licensee at no additional charge. Licensor does not guarantee any specific response time or uptime for the Software under this Agreement.
+
+6. DATA PROTECTION
+Licensor shall implement and maintain reasonable administrative, technical, and physical safeguards designed to protect the confidentiality and integrity of Licensee's data processed through the Software, consistent with industry-standard practices. Licensor shall notify Licensee without undue delay upon discovery of any unauthorized access to Licensee's data caused by a failure of such safeguards.
+
+7. INTELLECTUAL PROPERTY
+Licensor retains all right, title, and interest in and to the Software, including all associated intellectual property rights. No ownership rights are transferred to Licensee under this Agreement. Any feedback, suggestions, or feature requests provided by Licensee may be used by Licensor without restriction or compensation.
+
+8. WARRANTY DISCLAIMER
+EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
+
+9. LIMITATION OF LIABILITY
+NEITHER PARTY'S AGGREGATE LIABILITY UNDER THIS AGREEMENT SHALL EXCEED THE FEES PAID BY LICENSEE IN THE TWELVE (12) MONTHS PRECEDING THE EVENT GIVING RISE TO THE CLAIM. NEITHER PARTY SHALL BE LIABLE FOR INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, EXCEPT IN CASES OF A BREACH OF SECTION 2 OR A PARTY'S GROSS NEGLIGENCE OR WILLFUL MISCONDUCT.
+
+10. INDEMNIFICATION
+Licensor shall defend and indemnify Licensee against any third-party claim that the Software, as provided by Licensor and used in accordance with this Agreement, infringes such third party's intellectual property rights, and shall pay any resulting damages or settlement amounts, provided Licensee promptly notifies Licensor of the claim and cooperates in its defense.
+
+11. GOVERNING LAW AND VENUE
+This Agreement shall be governed by the laws of the State of Kansas. The parties consent to the exclusive jurisdiction of the state and federal courts located in Sedgwick County, Kansas for any dispute arising under this Agreement.
+
+12. ASSIGNMENT
+Licensee may not assign this Agreement without Licensor's prior written consent. Licensor may assign this Agreement without restriction in connection with a merger, acquisition, or sale of all or substantially all of its assets.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the Effective Date.
+
+VERTEX GRAIN SYSTEMS, INC.                    MILLBROOK COOPERATIVE FARMS, INC.
+By: _______________________                   By: _______________________
+Name: Owen Rasmussen                          Name: Carla Voss
+Title: Chief Executive Officer                Title: General Manager

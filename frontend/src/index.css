@@ -1,0 +1,69 @@
+@import "tailwindcss";
+
+@theme {
+  --color-zbrain: #1A55F9;
+  --color-zbrain-50: #EEF2FE;
+  --color-zbrain-100: #DDE7FD;
+  --color-zbrain-200: #B7CAFB;
+  --color-zbrain-400: #5B85FA;
+  --color-zbrain-600: #1A55F9;
+  --color-zbrain-700: #1340C4;
+  --color-zbrain-ink: #0B1020;
+  --color-zbrain-muted: #6B7280;
+  --color-zbrain-divider: #E5E7EB;
+  --color-zbrain-surface: #F7F8FB;
+}
+
+@layer components {
+  .card {
+    @apply bg-white rounded-[14px] shadow-[0_1px_2px_rgba(11,16,32,0.06),0_1px_0_rgba(11,16,32,0.04)_inset];
+  }
+  .pill {
+    @apply inline-flex items-center gap-1 px-2 py-0.5 rounded-full text-[10px] font-medium;
+  }
+}
+
+@keyframes blob {
+  0% { transform: translate(0px, 0px) scale(1); }
+  33% { transform: translate(30px, -50px) scale(1.1); }
+  66% { transform: translate(-20px, 20px) scale(0.9); }
+  100% { transform: translate(0px, 0px) scale(1); }
+}
+
+.animate-blob {
+  animation: blob 7s infinite;
+}
+
+.animation-delay-2000 {
+  animation-delay: 2s;
+}
+
+.animation-delay-4000 {
+  animation-delay: 4s;
+}
+
+@keyframes float-slow {
+  0% { transform: translateY(0px) rotate(0deg); opacity: 0.1; }
+  50% { transform: translateY(-30px) rotate(15deg); opacity: 0.25; }
+  100% { transform: translateY(0px) rotate(0deg); opacity: 0.1; }
+}
+@keyframes float-medium {
+  0% { transform: translateY(0px) rotate(0deg); opacity: 0.15; }
+  50% { transform: translateY(-45px) rotate(-20deg); opacity: 0.3; }
+  100% { transform: translateY(0px) rotate(0deg); opacity: 0.15; }
+}
+@keyframes float-fast {
+  0% { transform: translateY(0px) rotate(0deg); opacity: 0.1; }
+  50% { transform: translateY(-20px) rotate(8deg); opacity: 0.2; }
+  100% { transform: translateY(0px) rotate(0deg); opacity: 0.1; }
+}
+
+.animate-float-slow {
+  animation: float-slow 14s ease-in-out infinite;
+}
+.animate-float-medium {
+  animation: float-medium 9s ease-in-out infinite;
+}
+.animate-float-fast {
+  animation: float-fast 7s ease-in-out infinite;
+}

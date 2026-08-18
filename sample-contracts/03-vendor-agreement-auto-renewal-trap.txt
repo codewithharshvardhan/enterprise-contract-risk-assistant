@@ -1,0 +1,46 @@
+VENDOR SUPPLY AGREEMENT
+
+This Vendor Supply Agreement ("Agreement") is entered into as of January 15, 2026, by and between Summit Retail Holdings, Inc. ("Buyer"), a corporation with its principal place of business in Columbus, Ohio, and Ashgrove Packaging Solutions Corp. ("Vendor"), a corporation with its principal place of business in Richmond, Virginia.
+
+1. SCOPE OF SUPPLY
+Vendor shall manufacture and supply corrugated packaging materials to Buyer in accordance with the specifications set forth in Exhibit A, attached hereto and incorporated by reference.
+
+2. TERM AND AUTOMATIC RENEWAL
+This Agreement shall commence on February 1, 2026 and continue for an initial term of twelve (12) months (the "Initial Term"). Thereafter, this Agreement shall automatically renew for successive twelve (12) month terms (each, a "Renewal Term") unless either party provides written notice of non-renewal no less than one hundred twenty (120) days prior to the expiration of the then-current term. In the absence of such notice, this Agreement shall renew automatically at Vendor's then-current list pricing, which may exceed the pricing in effect during the Initial Term, and Buyer shall have no right to renegotiate pricing during the first ninety (90) days of any Renewal Term.
+
+3. PRICING AND PAYMENT
+Pricing for the Initial Term is set forth in Exhibit A. Vendor may adjust pricing for any Renewal Term upon sixty (60) days' notice prior to the start of that Renewal Term. Payment terms are net thirty (30) days from invoice date. Late payments accrue interest at 1.5% per month.
+
+4. MINIMUM PURCHASE COMMITMENT
+Buyer agrees to purchase a minimum of $2,400,000 in packaging materials during the Initial Term and each Renewal Term. If Buyer fails to meet the minimum purchase commitment in any term, Buyer shall pay Vendor the shortfall amount within thirty (30) days of the end of that term.
+
+5. TERMINATION FOR CONVENIENCE
+Neither party may terminate this Agreement for convenience during the Initial Term or any Renewal Term. Termination is only available as set forth in Section 6.
+
+6. TERMINATION FOR CAUSE
+Either party may terminate this Agreement upon material breach by the other party that remains uncured for sixty (60) days following written notice of such breach.
+
+7. CONFIDENTIALITY
+Each party agrees to maintain the confidentiality of the other party's proprietary business information disclosed in connection with this Agreement, using reasonable care, for a period of two (2) years following disclosure.
+
+8. LIMITATION OF LIABILITY
+IN NO EVENT SHALL VENDOR'S TOTAL LIABILITY UNDER THIS AGREEMENT EXCEED THE AMOUNT PAID BY BUYER TO VENDOR IN THE TWELVE (12) MONTHS PRECEDING THE CLAIM. VENDOR SHALL NOT BE LIABLE FOR ANY INDIRECT, CONSEQUENTIAL, OR SPECIAL DAMAGES.
+
+9. INDEMNIFICATION
+Buyer shall indemnify, defend, and hold harmless Vendor from any and all claims, damages, and expenses arising from Buyer's use or resale of the supplied packaging materials, including claims by Buyer's own customers, regardless of whether such claims arise from a defect attributable to Vendor's manufacturing process.
+
+10. GOVERNING LAW
+This Agreement shall be governed by the laws of the Commonwealth of Virginia.
+
+11. DISPUTE RESOLUTION
+Any dispute arising under this Agreement shall be resolved through binding arbitration in Richmond, Virginia, administered under the Commercial Arbitration Rules of the American Arbitration Association.
+
+12. NOTICES
+All notices under this Agreement shall be delivered in writing to the addresses set forth in the preamble, and shall be deemed effective upon receipt.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.
+
+SUMMIT RETAIL HOLDINGS, INC.                  ASHGROVE PACKAGING SOLUTIONS CORP.
+By: _______________________                   By: _______________________
+Name: Louise Farrant                          Name: Ted Okonkwo
+Title: VP, Procurement                        Title: Chief Commercial Officer
